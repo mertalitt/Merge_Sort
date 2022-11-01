@@ -1,5 +1,5 @@
 # Merge_Sort
-Patika.dev Insertion Sort Project [Patika.dev](https://www.patika.dev/tr) 
+Patika.dev Merge Sort Project [Patika.dev](https://www.patika.dev/tr) 
 # Dizinin Merge sort türüne göre aşamalarını yazınız.
 [16,21,11,8,12,22]  
 [16,21,11][8,12,22]      
